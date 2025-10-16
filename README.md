@@ -30,7 +30,7 @@
  ## Dashboard Preview
 ## Repository Files
 [- `Cyclistic_Ride Performance_Reort.xlsx` — Cleaned dataset/Analysis ](https://drive.google.com/file/d/16I54TLyG1euhaksaScZvSqyDn7pnDsiw/view?usp=sharing)
-- `Cyclistic_Dashboard.pdf` — Power BI visualization  
+[- `Cyclistic_Dashboard.pdf` — Power BI visualization ](https://drive.google.com/file/d/1LcAJ9N40d7Rl_hI1j3msFlMGw52ASnnM/view?usp=sharing) 
 - `Cyclistic_Dashboard Screenshot` — Dashboard Preview
   📬 **Contact:**  
 **Ifeanyi Joseph** (GitHub: [ogbodoifeanyi20](https://github.com/ogbodoifeanyi20))
