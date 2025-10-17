@@ -1,7 +1,7 @@
 # Project: 🚴‍♀️ Cyclistic Ride Performance Analysis
 
 # Overview: 
-This project analyzes Cyclistic bike-share data to understand how casual riders and annual members use Cyclistic bikes differently.
+This project analyzes Cyclistic bike-share data to understand how casual riders and monthly members use Cyclistic bikes differently.
 The insights help the company design strategies to convert casual riders into full members and improve overall service efficiency.
 
 # Project Objectives: 
@@ -12,10 +12,10 @@ To develop an interactive Power BI dashboard to visualize rider behavior and per
 Provide data-driven recommendations to increase membership conversion.
 
 # Tools Used and Steps: 
-Source data-CSV / Excel Dataset ( A Google Data Analytics Capstone)
-Excel Power Query-Data cleaning and transformation
-Excel - Analysis; calculations, Pivot table and chats
-Power BI-Dashboard creation and visualization
+Source data-CSV / Excel Dataset ( A Google Data Analytics Capstone);
+Excel Power Query-Data cleaning and transformation;
+Excel - Analysis; calculations, Pivot table and chats;
+Power BI-Dashboard creation and visualization.
 
 # Insights: 
 Member riders record higher overall trip performance (574,395) than casual riders (205,435).
@@ -27,14 +27,14 @@ Average speed and distance are significantly higher among members due to consist
 <img width="781" height="504" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/cc9fe924-9d19-410a-bc4d-e926e57172d3" />
 
 # Dataset:
-Source: Cyclistic bike-share trip data (CSV format)
+Source: Cyclistic bike-share trip data (CSV format);
 Fields: Rider Type, Bike Type, Distance, Duration, Speed, Start/End Time, Ride ID, Station/station ID, coordinate of points (Latitude/Longitude)
 Period: October 1st – 31st, 2020.
 
 # Dashboard Features:
-Average trip distance, speed, and duration by rider type  
-Monthly ride trends and performance metrics    
-Slicers for flexible filtering
+Average trip distance, speed, and duration by rider type,  
+Monthly ride trends and performance metrics,    
+Slicers for flexible filtering.
 														
 # Recommendations:
 Offer discounted memberships to frequent casual riders who complete multiple trips per month.
@@ -48,6 +48,6 @@ members get priority access and electric bike benefits/discounts
 [- `Cyclistic_Ride Performance_Reort.xlsx` — Cleaned dataset/Analysis ](https://drive.google.com/file/d/16I54TLyG1euhaksaScZvSqyDn7pnDsiw/view?usp=sharing)
 [- `Cyclistic_Dashboard.pdf` — Power BI visualization ](https://drive.google.com/file/d/1LcAJ9N40d7Rl_hI1j3msFlMGw52ASnnM/view?usp=sharing)
 
-# Author:Ifeanyi Joseph (ogbodoifeanyi20)
+# Author: Ifeanyi Joseph
 Email:ogbodoifeanyi20@gmail.com
 GitHub: [ogbodoifeanyi20](https://github.com/ogbodoifeanyi20)
